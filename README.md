@@ -2,7 +2,9 @@
 
 Ideas and code mostly taken from https://github.com/steamguard-totp/steamguard-shared-secret.
 Check the original repository for details.
+
 Version remade for Windows and bundled into a self-contained package (see [releases](../../releases)).
+
 Specifically tuned for certain program's workflow.
 
 ## Step-by-step guide
